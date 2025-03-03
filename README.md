@@ -10,7 +10,7 @@ The dataset used for this project is sourced from Kaggle:
 The dataset contains a collection of news articles in Bahasa Indonesia, labeled to distinguish between real and fake news.
 
 ## Machine Learning Model
-- **Algorithm Used:** Support Vector Machine and Random Forest
+- **Algorithm Used:** **Support Vector Machine (SVM)** and **Random Forest (RF)**
 - The Decision Tree algorithm is chosen for its simplicity and interpretability, making it easier to understand the model's decisions.
 
 ## Usage
