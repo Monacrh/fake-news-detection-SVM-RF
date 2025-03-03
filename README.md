@@ -1,27 +1,41 @@
-Fake News Detection Using Python & Machine Learning
+# Fake News Detection Using Python & Machine Learning
 
-Deep Learning & Machine Learning Playlist👉🏻 https://www.youtube.com/playlist?list=PLWyN7K28ZraSdSdTvQEDKPta5PATUmaiT
+## Project Overview
+This project focuses on building a **Fake News Detection** system using **Python** and **Machine Learning** techniques. The model is trained to classify news articles as either real or fake, helping to identify and combat misinformation.
 
-PART 01: Brain Tumor Detection Using Deep Learning 👉🏻 https://youtu.be/pp61TbhJOTg
+## Dataset
+The dataset used for this project is sourced from Kaggle:
+[Indonesia False News Dataset](https://www.kaggle.com/datasets/muhammadghazimuharam/indonesiafalsenews/data)
 
-PART 02: Brain Tumor Detection Using Deep Learning 👉🏻 https://youtu.be/8GSwtOJw_1M
+The dataset contains a collection of news articles in Bahasa Indonesia, labeled to distinguish between real and fake news.
 
-Deep Learning For Health Care👉🏻 https://www.youtube.com/playlist?list=PLWyN7K28ZraStL8fr0eQmr6VwAiahQStd
+## Machine Learning Model
+- **Algorithm Used:** Decision Tree Classifier
+- The Decision Tree algorithm is chosen for its simplicity and interpretability, making it easier to understand the model's decisions.
 
-🔥Face Mask Detection Using Python, Keras, OpenCV and Tensorflow| Detect Masks Real-time Video Streams👉🏻https://youtu.be/4WmLOAd1BvY
+## Usage
+1. Run the Streamlit app:
+   ```bash
+   streamlit run app.py
+   ```
 
-🔥 Python Project: Automate Hill Climb Racing Game Using Python 👉🏻 https://youtu.be/ZBtk3GmJMTE
+## Requirements
+- Python 3.10 or higher
+- Libraries:
+  - Streamlit
+  - Pandas
+  - Scikit-learn
+  - NLTK
 
-💥 LED Controller Using Python And Ardunio 👉 https://youtu.be/fwMjVZhM08s
+## Results
+The Decision Tree classifier achieved satisfactory accuracy on the test set, demonstrating its capability to identify fake news effectively.
 
-I'm on Instagram as @knowledge_doctor.
+## Screenshoot
 
-Follow Me On Instagram : https://www.instagram.com/invites/contact/?i=f9n3ongbu8ma&utm_content=jresydt
+![Screenshot 2025-03-04 031609](https://github.com/user-attachments/assets/b1c78cf6-3e62-4616-9710-509788d45277)
+![Screenshot 2025-03-04 022921](https://github.com/user-attachments/assets/1172c986-d600-4fec-9f32-c1aff83234f8)
 
-Like My Facebook Page:
 
-https://www.facebook.com/Knowledge-Doctor-Programming-114082097010409/
+---
 
-Discuss With Me, Join Discord Server,
 
-https://discord.gg/67AKGPPRsh
